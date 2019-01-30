@@ -1,0 +1,6 @@
+{
+    "name": "Smashing dashboard",
+    "description": "The exceptionally handsome dashboard framework",
+    "repository": "https://github.com/Smashing/smashing",
+    "keywords": ["ruby", "sinatra", "dashboard"]
+}
