@@ -27,6 +27,9 @@ $ smashing start
 
 [Check out our wiki](https://github.com/Smashing/smashing/wiki).
 
+## Deploy to Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 Note: This is a fork of the Dashing project, which is no longer being maintained. Read about that [here](https://github.com/Shopify/dashing/issues/711).
 
 ## License
